@@ -5,7 +5,7 @@
   tags: "travel"
   tranding: false
   readTime: "2 min"
-  thumbnail: /images//featured-post.jpg
+  thumbnail: /images/featured-post.jpg
   featureImage: /images/blog-single.png
 ---
 
