@@ -1,4 +1,4 @@
-baseURL = "/ceo-mitch"
+baseURL = "https://mitchbox.github.io/ceo-mitch"
 languageCode = "zh-tw"
 paginate = 6
 summaryLength = 3
