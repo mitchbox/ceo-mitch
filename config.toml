@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/ceo-mitch"
 languageCode = "zh-tw"
 paginate = 6
 summaryLength = 3
